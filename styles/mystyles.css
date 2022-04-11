@@ -1,0 +1,28 @@
+a{
+    font-family: sans-serif;
+    color:rgb(43, 139, 107);
+}
+
+A:hover{
+    text-decoration: underline;
+}
+
+.bolder{
+    font-weight: bolder
+}
+
+.thin{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.centervideo{
+    position: relative;
+    width: 50%;
+    text-align: center;
+}
+
+.logoright{
+    float: right;
+}
+
